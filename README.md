@@ -1,5 +1,5 @@
 ### 
-I'm tired, let it go.
+I'm tired, let it go, read and write the fucking code.
 
 <!--
 **lesismal/lesismal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
