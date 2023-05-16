@@ -1,5 +1,5 @@
 ### 
-I'm tired, let it go, read and write the fucking code.
+Read and write the fucking code.
 
 
 
