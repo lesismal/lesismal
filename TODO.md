@@ -8,7 +8,8 @@
 4. rewrite ws parser logic, rename nbhttp.ReaderCloser to ParserCloser
 5. nbio.Conn write cache use body allocator
 6. update go-websocket-benchmark nbio version, wsconn.Parse
-7. aligned append free old
+7. ~~aligned append free old~~
+8. async dial, onConnected, MTCP, PROXY
 
 ### sqlw
 1. ~~fix lower case~~
