@@ -2,7 +2,7 @@
 
 - `lesismal` is short for `less is more`.
 
-- I like reading and writing the fucking code.
+- 1 2 3 Go, 三思而后行!
 
 ### Support Me
 - `btc`: `3Md5wF3y1pNQY299qMbswXS1e1A9oruugY`
