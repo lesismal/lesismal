@@ -7,6 +7,7 @@
 ### Support Me
 - `btc`: `3Md5wF3y1pNQY299qMbswXS1e1A9oruugY`
 - `eth`: `0xa7f4bFA0de3Bee6B073e1A3197EADb2ba5BB3D04`
+- `sol`: `lesismal.sol`
 
 
 
